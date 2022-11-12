@@ -29,7 +29,8 @@ You have to fill some informations on `_config.yml` to customize your site.
 # Site settings
 description: A blog about lorem ipsum dolor sit amet
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://localhost:3000" # the base hostname & protocol for your site
+url: "https://freyua911.github.io/XiaoYuan.github.io/" # the base hostname & protocol for your site
+<!-- http://localhost:3000 -->
 
 # User settings
 username: Lorem Ipsum
