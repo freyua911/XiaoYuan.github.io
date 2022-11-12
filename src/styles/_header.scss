@@ -16,7 +16,7 @@
 .header {
   z-index: 1;
   text-align: center;
-  color:#FFF;
+  color:rgb(209, 190, 255);
   position: absolute;
   top: 50%;
   left: 50%;
@@ -27,7 +27,7 @@
     font-size: 50px;
     display: block;
     line-height: 1;
-    color: #FFF;
+    color: rgb(179, 229, 244);
     @media only screen and (min-width:$cut){
       margin: 0;
       font-size: 100px;
